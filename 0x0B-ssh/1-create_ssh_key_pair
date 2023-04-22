@@ -1,0 +1,2 @@
+sh script that creates a RSA key pair
+ssh-keygen -b 4096 -f school -N betty
